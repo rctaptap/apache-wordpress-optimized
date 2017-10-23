@@ -9,10 +9,13 @@ Server version: Apache/2.4.27 (Amazon)
 Server built:   Sep 24 2017 23:19:50
 
 ## Install
+```
 $ git clone https://github.com/rctaptap/apache-wordpress-optimized.git
 $ chmod +x setup.sh
 $ sh setup.sh port
+```
 
 ### Example
+```
 $ sh setup.sh 80 
- 
+```
